@@ -21,3 +21,7 @@ Of course these can be configured to your liking, simply have a look at the neof
 ```
 neofetch
 ```
+
+## Notice
+
+Splunk, the Splunk Logo and Splunk SOAR are trademarks of Splunk Inc.
